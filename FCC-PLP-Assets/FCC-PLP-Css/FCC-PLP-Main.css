@@ -98,6 +98,7 @@ body {
   align-items: center;
   flex-direction: row;
   padding: 50px;
+  scroll-margin-top: 50px;
 }
 
 .slide-homepage-container {
@@ -194,6 +195,7 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  scroll-margin-top: 50px;
 }
 
 .about-Page {
@@ -234,6 +236,7 @@ video:hover {
   align-items: center;
   flex-direction: column;
   padding: 50px;
+  scroll-margin-top: 50px;
 }
 
 .features-Page {
@@ -292,6 +295,7 @@ video:hover {
   align-items: center;
   flex-direction: column;
   padding: 50px;
+  scroll-margin-top: 50px;
 }
 
 .contact-Page  {
